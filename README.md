@@ -1,6 +1,3 @@
-# institute-of-buccal-midazolam-educators  
-A non-profit professional association dedicated to training in **pre-hospital epilepsy care** and the **administration of buccal midazolam**. We provide a platform for educators, trainers, care providers, and organizations to demonstrate their commitment to **ethical, high-quality training** in this crucial area of healthcare.  
-
 # Institute of Buccal Midazolam Educators Website – [Live Website](https://buccal-midazolam.org/)
 
 ---
