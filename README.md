@@ -82,4 +82,4 @@ For more information on becoming a member, adhering to the Code of Ethics, or to
 ---
 
 **More Projects:**  
-Check out my other work on my [GitHub Profile](https://github.com/saifwp)
+Check out my other work on my [GitHub Profile](https://github.com/sharifwp)
